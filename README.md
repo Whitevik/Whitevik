@@ -1,6 +1,6 @@
-[![Header](https://github.com/Whitevik/Whitevik/blob/main/assets/whitevik.jpg)]
+[![Header](https://github.com/Whitevik/Whitevik/blob/main/assets/whitevik.jpg)
 
-About me
+## I'm a beginner QA Engeneer
 
 Latest YouTube Video
 
